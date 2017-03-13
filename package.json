@@ -1,0 +1,8 @@
+{
+    "name":"lodash",
+  "dependencies": {},
+  "description": "Lodash modular utilities.",
+  "devDependencies": {},
+  "directories": {},
+  "version": "4.17.4"
+}
